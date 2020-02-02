@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manage Categories
+title: Manage Categories Module
 ---
 
 ## Manage Categories
