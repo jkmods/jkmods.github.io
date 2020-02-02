@@ -12,7 +12,7 @@ Works on Windows AND POSIX systems
 Don’t forgot to activate it in Module Admin after installation!
 
 Direct download:
-[http://jkmods.github.io/cpuraminfo.zpp](http://jkmods.github.io/cpuraminfo.zpp)
+[https://jkmods.github.io/cpuraminfo.zpp](https://jkmods.github.io/cpuraminfo.zpp)
 
 How to add my REPO:
 ```
