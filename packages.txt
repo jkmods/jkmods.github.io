@@ -1,6 +1,7 @@
 cpuraminfo
 manage_categories
 module_updates
+pydio
 theme_manager_x
 whois
 zgodx
