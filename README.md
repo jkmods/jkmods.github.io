@@ -6,12 +6,13 @@ If needed you can contact me on [Sentora Forums](http://forums.sentora.org/)
 
 ### List of my modules
 
-- CPU & RAM info
-- Manage Categories
-- Module Updates
-- Theme Manager X
-- Who is
-- zGODx
+- [CPU & RAM info](http://jkmods.github.io/cpuraminfo)
+- [Manage Categories](https://jkmods.github.io/manage_categories)
+- [Module Updates](https://jkmods.github.io/module_updates)
+- [Theme Manager X](https://jkmods.github.io/theme_manager_x)
+- [Who is](https://jkmods.github.io/whois)
+- [zGODx](https://jkmods.github.io/zgodx)
+
 
 ### How to add my REPO:
 ```
