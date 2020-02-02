@@ -4,6 +4,7 @@ title: CPU & RAM info Module
 ---
 
 ## CPU & RAM info Module
+![cpuraminfo](https://raw.githubusercontent.com/jkmods/jkmods.github.io/master/cpuraminfo.png)
 
 I found out a great script written by Sebastian Batko for monitoring the CPU & RAM usage on any server. So I’ve adapted the code a little and created this module, that will show you the current usage.
 
