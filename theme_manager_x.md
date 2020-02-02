@@ -19,7 +19,7 @@ So anybody can get any theme for zpanel zipp it and upload it to server in easy 
 Then you just need to change it …
 
 Direct download:
-[http://jkmods.github.io/theme_manager_x.zpp](http://jkmods.github.io/theme_manager_x.zpp)
+[https://jkmods.github.io/theme_manager_x.zpp](https://jkmods.github.io/theme_manager_x.zpp)
 
 How to add my REPO:
 ```
