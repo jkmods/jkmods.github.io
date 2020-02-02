@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module Updates
+title: Module Updates Module
 ---
 
 ## Module Updates
