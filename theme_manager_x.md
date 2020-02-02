@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theme Manager X
+title: Theme Manager X Module
 ---
 
 ## Theme Manager X
