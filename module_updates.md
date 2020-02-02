@@ -12,7 +12,7 @@ This module enables you to check and see if there are any available updates to y
 Currently you can check for new version of modules by clicking on button Check for updates manually, at the very bottom of the module. Changes are reflected also in Module Admin as the same table is used to store all info.
 
 Direct download:
-[https://jkmods.github.io/cpuraminfo.zpp](https://jkmods.github.io/cpuraminfo.zpp)
+[https://jkmods.github.io/module_updates.zpp](https://jkmods.github.io/module_updates.zpp)
 
 How to add my REPO:
 ```
