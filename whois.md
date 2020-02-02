@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who is
+title: Who is module
 ---
 
 ## Who is
