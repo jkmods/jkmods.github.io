@@ -1,1 +1,6 @@
-
+cpuraminfo
+manage_categories
+module_updates
+theme_manager_x
+whois
+zgodx
