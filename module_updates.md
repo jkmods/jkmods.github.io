@@ -4,6 +4,7 @@ title: Module Updates
 ---
 
 ## Module Updates
+![module_updates](https://raw.githubusercontent.com/jkmods/jkmods.github.io/master/module_updates.png)
 
 Until solved by Sentora Team, I’ve created a module to check for any update of any module on server.
 
