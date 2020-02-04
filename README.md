@@ -9,7 +9,7 @@ If needed you can contact me on [Sentora Forums](http://forums.sentora.org/)
 - [CPU & RAM info](http://jkmods.github.io/cpuraminfo)
 - [Manage Categories](https://jkmods.github.io/manage_categories)
 - [Module Updates](https://jkmods.github.io/module_updates)
-- Pydio - *** TESTING PHASE ***
+- Pydio (6.0.8)- *** TESTING PHASE ***
 - [Theme Manager X](https://jkmods.github.io/theme_manager_x)
 - [Who is](https://jkmods.github.io/whois)
 - [zGODx](https://jkmods.github.io/zgodx)
